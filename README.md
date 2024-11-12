@@ -1,6 +1,6 @@
 # admin-dashboard-next
-پنل ادمین با Just install package and run it :
 
+Just install package and run it :
 - `npm i `
 - `npm run dev`
   
